@@ -18,9 +18,9 @@
   },
   "description": "The Coinbase API for Node.js",
   "devDependencies": {
-    "mocha": "2.1.0",
+    "mocha": "10.2.0",
     "docco": "0.7.0",
-    "nock": "0.59.1"
+    "nock": "13.3.0"
   },
   "directories": {
     "lib": "./lib"
